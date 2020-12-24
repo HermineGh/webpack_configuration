@@ -1,0 +1,8 @@
+.vscode/
+node_modules/
+otherTypeFiles/
+package-lock.json
+package.json
+src/
+stats.json
+webpack.config.js
