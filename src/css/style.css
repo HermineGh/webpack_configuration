@@ -1,0 +1,15 @@
+@import "fonts.css";
+@import "~normalize.css";
+
+
+body{
+    font-family:Roboto, sans-serif;
+}
+
+div.container h1{
+    color: rgb(43, 226, 165);
+}  
+p{
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+}
