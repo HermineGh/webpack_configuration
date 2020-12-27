@@ -1,2 +1,2 @@
-Webpack configuration with ReactJs
-need to add node_modules /npm install/
+Webpack configuration with ReactJs.
+Need to add node_modules /npm install/
